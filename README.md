@@ -42,10 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tomiwa-adesanya/tomiwa-adesanya/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tomiwa-adesanya.tomiwa-adesanya&left_text=Profile views"  />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomiwa-adesanya&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ###
