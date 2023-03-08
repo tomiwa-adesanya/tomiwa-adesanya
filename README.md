@@ -43,5 +43,6 @@
 <br clear="both">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomiwa-adesanya&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tomiwa-adesanya&label=Profile%20views&color=0e75b6&style=flat" alt="Tomiwa Adesanya"/> </p>
 
 ###
